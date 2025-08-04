@@ -7,7 +7,7 @@ contate-me no email:ru.lima.rocha@gmail.com
 <div>
   <a href="https://github.com/RuanRochaLima">
   <img height="130em" src=https://github-readme-stats.vercel.app/api?username=dev-ruan-lima&show_icons=true&theme=onedark/>
- <img height="130em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ruan-lima&exclude_repo=github-readme-stats,RuanRochaLima.github.io
+ <img height="130em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ruan-lima&exclude_repo=github-readme-stats,dev-ruan-lima.github.io
   </div>
 
   <div style="display: inlene_block"><br>
