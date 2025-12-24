@@ -10,18 +10,18 @@
 - 📍 Cotia - SP, Brasil  
 - ⚡ Curioso, autodidata e sempre buscando aprender algo novo  
 
+## 💼 Projetos em Destaque
+- 💻 **Mc Serviços** — Landing page para empresa de controle de acesso
+- 📱 **GB Cell** — Site para assistência técnica de celulares  
+
+👉 Veja todos em:  
+🌐 https://dev-ruan-lima.github.io
+
 
 ## Objetivos / Goals
 
 - Aprimorar minhas habilidades em FrontEnd Html,Css e Js
 - Trabalhar em projetos que impactem positivamente a vida das pessoas  
-
-
-
-## Formação / Education
-
-- Desenvolvedor Front-End/Senai Cotia
-
 
 ## Tecnologias / Technologies
 
@@ -31,15 +31,6 @@
 <img align="left" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 
 <br clear="both"/>
-
-
-## Estatísticas do GitHub / GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dev-ruan-lima&show_icons=true&theme=midnight-purple" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ruan-lima&layout=compact&theme=midnight-purple" />
-</div>
-
 
 
 ## Contato / Contact
