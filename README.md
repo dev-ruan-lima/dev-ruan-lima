@@ -15,7 +15,7 @@
 - 📱 **GB Cell** — Site para assistência técnica de celulares  
 
 👉 Veja todos em:  
-🌐 https://dev-ruan-lima.github.io
+🌐 https://dev-ruan-lima.github.io/Portifolio-Front-end/
 
 
 ## Objetivos / Goals
